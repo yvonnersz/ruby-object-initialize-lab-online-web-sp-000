@@ -7,8 +7,6 @@ class Dog
     attr_reader: name
     attr_reader: breed
 
-    @name
-    @breed
   end
 
 end
